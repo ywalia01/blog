@@ -1,1 +1,1 @@
-# https://ywalia01.github.io/blog/
+# https://ywalia01.github.io/my-blog/
